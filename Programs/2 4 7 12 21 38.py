@@ -1,0 +1,9 @@
+n=5
+a=2
+print(a)
+i=0
+while(i<=n):
+    b=(a*2)-i
+    print(b)
+    a=b
+    i=i+1
